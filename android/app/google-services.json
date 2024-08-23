@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729335929115",
+    "project_id": "flutter-projects-41764",
+    "storage_bucket": "flutter-projects-41764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729335929115:android:1daaecc96f02c0a10f9bbe",
+        "android_client_info": {
+          "package_name": "com.ajmendoza.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNH06_z87QiP6w_wwoXOfqCHAPwQ5pGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
